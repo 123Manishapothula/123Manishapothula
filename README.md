@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Manisha
 - 👀 I’m interested in software developement and testing and developing new projects
-- 🌱 I’m currently learning new technologies
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning technologies like full stack development
+- 💞️ I’m looking to collaborate on people where i can gain skills and improve knowledge
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
